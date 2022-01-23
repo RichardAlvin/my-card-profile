@@ -1,0 +1,37 @@
+.profile {
+  width: 499px;
+  border: 1px solid white;
+  border-bottom: none;
+  border-radius: 3% 3% 0 0;
+}
+
+h1 {
+  color: white;
+  margin-top: 20px;
+}
+
+h3 {
+  color: white;
+}
+
+.btn {
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.btn-email {
+  background-color: white;
+  margin-right: 20px;
+}
+
+.btn-linked {
+  background-color: rgb(36, 160, 237);
+  margin-left: 20px;
+  color: white;
+}
